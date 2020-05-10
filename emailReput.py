@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 import argparse
 import requests
 
@@ -14,3 +13,6 @@ data = res.json()
 
 print (intxt)
 
+''' usage: 
+./emailReput.py --email youremail@address.com 
+'''
