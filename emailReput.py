@@ -13,6 +13,6 @@ data = res.json()
 
 print (intxt)
 
-''' usage: 
-./emailReput.py --email youremail@address.com 
-'''
+# usage: 
+# overhaul@win69:~$ ./emailReput.py --email youremail@address.com
+
