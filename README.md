@@ -17,15 +17,15 @@ https://leaked.site
 https://hunter.ddosecrets.com/
 
 ## Hackers Forum: 
-https://db.xss.is/ 
-void.to
-https://evilzone.org/
-https://exploit.in/
-https://www.nulled.to/
-https://www.blackhatworld.com/
-https://www.hacking-tutorial.com/#sthash.WmQRhaxV.dpbs
-http://www.offensivecommunity.net/
-https://cracked.to/
+> https://db.xss.is/
+> void.to
+> https://evilzone.org/
+> https://exploit.in/
+> https://www.nulled.to/
+> https://www.blackhatworld.com/
+> https://www.hacking-tutorial.com/#sthash.WmQRhaxV.dpbs
+> http://www.offensivecommunity.net/
+> https://cracked.to/
 
 ##MalDocs Analysis: 
 https://iris-h.services/pages/dashboard
